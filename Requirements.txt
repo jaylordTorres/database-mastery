@@ -1,0 +1,29 @@
+project name:
+  'Database Mastery'
+
+requirements:
+  phase #1
+  'bulk messages (hit em upp App)' 
+  'can link video to be sent'
+  'can link photo to be sent'
+
+features:
+  phase #1
+  'user accounts'
+  'upload client videos that we created for them, default to users'
+  'user can upload videos, public, private- can be use to send in buld messages template'
+  'share to social media'
+
+  phase #2
+  'user can create groups/teams'
+  'make chat'
+  'view timeline'
+  'view other user accomplishment'
+
+app target:
+  phase #1
+  'agents'
+
+site links:
+  'https://www.database-mastery.com'
+  'https://www.gogrowsocial.com'
